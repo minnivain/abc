@@ -13,4 +13,7 @@ module.exports = {
     }
     return (ketju += proto);
   },
+   helloWorld: function() {
+	return 'Hello World';
+   }
 }
